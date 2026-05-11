@@ -1,0 +1,13 @@
+App name
+MORGANT THIERRY
+
+Short description
+Track stock, orders, reservations, and compliance in one offline operations app.
+
+Full description
+MORGANT THIERRY helps daily operations teams keep core business tasks organized on a single Android device. Track inventory levels, flag low-stock items, create supply orders, manage reservations, and monitor compliance reports from a focused control board.
+
+Records are stored locally on the device. The app does not require an account, cloud sync, analytics, advertising, location, contacts, camera, microphone, or external service access.
+
+Category
+Business
