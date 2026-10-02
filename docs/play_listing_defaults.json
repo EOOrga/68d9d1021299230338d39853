@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.morgantthierry": {
+      "title": "MORGANT THIERRY",
+      "short_description": "Track stock, orders, reservations, and compliance in one offline operations app.",
+      "full_description": "MORGANT THIERRY helps daily operations teams keep core business tasks organized on a single Android device. Track inventory levels, flag low-stock items, create supply orders, manage reservations, and monitor compliance reports from a focused control board.\n\nRecords are stored locally on the device. The app does not require an account, cloud sync, analytics, advertising, location, contacts, camera, microphone, or external service access.",
+      "source_screenshots": [
+        "docs/screens/1.png",
+        "docs/screens/2.png",
+        "docs/screens/3.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:21:10.071267+00:00"
+    }
+  }
+}
